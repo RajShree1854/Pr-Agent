@@ -1,0 +1,38 @@
+{
+  "name": "pr-agent PR-Agent",
+  "description": "pr-agent PR-Agent",
+  "key": "app_key",
+  "vendor": {
+    "name": "pr-agent",
+    "url": "https://pr-agent.ai"
+  },
+  "authentication": {
+    "type": "jwt"
+  },
+  "baseUrl": "base_url",
+  "lifecycle": {
+    "installed": "/installed",
+    "uninstalled": "/uninstalled"
+  },
+  "scopes": [
+    "account",
+    "repository:write",
+    "pullrequest:write",
+    "wiki"
+  ],
+  "contexts": [
+    "account"
+  ],
+  "modules": {
+    "webhooks": [
+      {
+        "event": "*",
+        "url": "/webhook"
+      }
+    ]
+  },
+  "links": {
+    "privacy": "https://qodo.ai/privacy-policy",
+    "terms": "https://qodo.ai/terms"
+  }
+}
