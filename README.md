@@ -39,9 +39,6 @@ PR-Agent is an open-source, AI-powered code review agent and a community-maintai
 
 ## Getting Started
 
-> [!NOTE]
-> **Docker Hub namespace migration.** Releases `0.34.2` and later are published under [`pragent/pr-agent`](https://hub.docker.com/r/pragent/pr-agent). Older releases (up to and including `v0.31`) remain available at the legacy [`rajshree1854/pr-agent`](https://hub.docker.com/r/rajshree1854/pr-agent) namespace as a frozen archive — no new images are pushed there. Update any pinned `image:` / `docker pull` / `uses: docker://` references when upgrading to `0.34.2+`.
-
 ### 🚀 Quick Start for PR-Agent
 
 #### 1. GitHub Action (Recommended)
