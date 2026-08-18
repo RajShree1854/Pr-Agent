@@ -87,7 +87,7 @@ PR-Agent offers comprehensive pull request functionalities integrated with vario
 <h4>/describe</h4>
 <div align="center">
 <p float="center">
-<img src="https://www.pr-agent.ai/images/pr_agent/describe_new_short_main.png" width="512">
+<img src="https://www.codium.ai/images/pr_agent/describe_new_short_main.png" width="512">
 </p>
 </div>
 <hr>
@@ -96,7 +96,7 @@ PR-Agent offers comprehensive pull request functionalities integrated with vario
 <div align="center">
 <p float="center">
 <kbd>
-<img src="https://www.pr-agent.ai/images/pr_agent/review_new_short_main.png" width="512">
+<img src="https://www.codium.ai/images/pr_agent/review_new_short_main.png" width="512">
 </kbd>
 </p>
 </div>
@@ -106,7 +106,7 @@ PR-Agent offers comprehensive pull request functionalities integrated with vario
 <div align="center">
 <p float="center">
 <kbd>
-<img src="https://www.pr-agent.ai/images/pr_agent/improve_new_short_main.png" width="512">
+<img src="https://www.codium.ai/images/pr_agent/improve_new_short_main.png" width="512">
 </kbd>
 </p>
 </div>
