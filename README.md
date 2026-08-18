@@ -86,7 +86,6 @@ pr-agent --pr_url https://github.com/owner/repo/pull/123 review
 - [BitBucket app installation](https://rajshree1854.github.io/Pr-Agent/installation/bitbucket/)
 - [Azure DevOps setup](https://rajshree1854.github.io/Pr-Agent/installation/azure/)
 
-
 ## Why Use PR-Agent?
 
 ### 🎯 Built for Real Development Teams
