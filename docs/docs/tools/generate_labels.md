@@ -12,11 +12,11 @@ It can be invoked manually by commenting on any PR:
 
 Invoke the tool manually by commenting `/generate_labels` on any PR:
 
-![Generate Labels](https://pr-agent.ai/images/pr_agent/generate_labels_comment.png){width=512}
+![Generate Labels](https://www.codium.ai/images/pr_agent/generate_labels_comment.png){width=512}
 
 The tool will analyze the PR and add appropriate labels:
 
-![Generate Labels Result](https://pr-agent.ai/images/pr_agent/generate_labels_result.png){width=512}
+![Generate Labels Result](https://www.codium.ai/images/pr_agent/generate_labels_result.png){width=512}
 
 ## Configuration options
 

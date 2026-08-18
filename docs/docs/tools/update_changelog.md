@@ -9,9 +9,9 @@ It can be invoked manually by commenting on any PR:
 
 ## Example usage
 
-![update_changelog_comment](https://pr-agent.ai/images/pr_agent/update_changelog_comment.png){width=768}
+![update_changelog_comment](https://www.codium.ai/images/pr_agent/update_changelog_comment.png){width=768}
 
-![update_changelog](https://pr-agent.ai/images/pr_agent/update_changelog.png){width=768}
+![update_changelog](https://www.codium.ai/images/pr_agent/update_changelog.png){width=768}
 
 ## Configuration options
 

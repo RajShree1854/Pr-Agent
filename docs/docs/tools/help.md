@@ -13,9 +13,9 @@ It can be invoked manually by commenting on any PR:
 
 Invoke the `help` tool by commenting on a PR with:
 
-![Help tool input](https://pr-agent.ai/images/pr_agent/help1.png){width=750}
+![Help tool input](https://www.codium.ai/images/pr_agent/help1.png){width=750}
 
 
 Response will include a list of available tools:
 
-![Help tool output](https://pr-agent.ai/images/pr_agent/help2.png){width=750}
+![Help tool output](https://www.codium.ai/images/pr_agent/help2.png){width=750}

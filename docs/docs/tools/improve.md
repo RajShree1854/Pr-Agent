@@ -10,10 +10,10 @@ The tool can be triggered automatically every time a new PR is [opened](../usage
 ## How it looks
 
 === "Suggestions Overview"
-    ![code_suggestions_as_comment_closed](https://pr-agent.ai/images/pr_agent/code_suggestions_as_comment_closed.png){width=512}
+    ![code_suggestions_as_comment_closed](https://www.codium.ai/images/pr_agent/code_suggestions_as_comment_closed.png){width=512}
 
 === "Selecting a specific suggestion"
-    ![code_suggestions_as_comment_open](https://pr-agent.ai/images/pr_agent/code_suggestions_as_comment_open.png){width=512}
+    ![code_suggestions_as_comment_open](https://www.codium.ai/images/pr_agent/code_suggestions_as_comment_open.png){width=512}
 
 ___
 
@@ -35,7 +35,7 @@ For example, you can choose to present all the suggestions as committable code c
 /improve --pr_code_suggestions.commitable_code_suggestions=true
 ```
 
-![improve](https://pr-agent.ai/images/pr_agent/improve.png){width=512}
+![improve](https://www.codium.ai/images/pr_agent/improve.png){width=512}
 
 ### Automatic triggering
 
@@ -60,9 +60,9 @@ num_code_suggestions_per_chunk = ...
 
 PR-Agent supports two modes for presenting code suggestions: 
 
-1) [Table](https://pr-agent.ai/images/pr_agent/code_suggestions_as_comment_closed.png) mode 
+1) [Table](https://www.codium.ai/images/pr_agent/code_suggestions_as_comment_closed.png) mode 
 
-2) [Inline Committable](https://pr-agent.ai/images/pr_agent/improve.png) code comments mode.
+2) [Inline Committable](https://www.codium.ai/images/pr_agent/improve.png) code comments mode.
 
 The table format offers several key advantages:
 
@@ -74,7 +74,7 @@ The table format offers several key advantages:
 
 Table mode is the default of PR-Agent, and is recommended approach for most users due to these benefits. 
 
-![code_suggestions_as_comment_closed.png](https://pr-agent.ai/images/pr_agent/code_suggestions_as_comment_closed.png){width=512}
+![code_suggestions_as_comment_closed.png](https://www.codium.ai/images/pr_agent/code_suggestions_as_comment_closed.png){width=512}
 
 Teams with specific preferences can enable committable code comments mode in their local configuration, or use [dual publishing mode](#dual-publishing-mode).
 
@@ -243,7 +243,7 @@ You can set the content of the checkbox text via:
 code_suggestions_self_review_text = "... (your text here) ..."
 ```
 
-![self_review_1](https://pr-agent.ai/images/pr_agent/self_review_1.png){width=512}
+![self_review_1](https://www.codium.ai/images/pr_agent/self_review_1.png){width=512}
 
 !!! note "The checkbox is a visual marker only"
 
