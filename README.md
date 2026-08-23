@@ -65,7 +65,7 @@ jobs:
 
 #### 2. CLI Usage (Local Development)
 
-Run PR-Agent locally on your repository:
+Run PR-Agent locally on your computer:
 
 PyPI publishing is temporarily behind: `pip install pr-agent` currently installs `0.39.0`.
 Until publishing resumes, install the current release (`v0.42.0`) reproducibly from its GitHub tag:
