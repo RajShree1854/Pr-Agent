@@ -1,18 +1,4 @@
-
-
-<br />
-
-<div align="center">
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.codium.ai/images/pr_agent/logo-dark.png" width="330">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.codium.ai/images/pr_agent/logo-light.png" width="330">
-  <img src="https://www.codium.ai/images/pr_agent/logo-light.png" alt="logo" width="330">
-
-</picture>
-<br>
-The Original Open-Source PR Reviewer
+PR Reviewer
 <br><br>
 <a href="https://github.com/rajshree1854/pr-agent/commits/main">
 <img alt="GitHub" src="https://img.shields.io/github/last-commit/rajshree1854/pr-agent/main?style=for-the-badge" height="20">
