@@ -1,12 +1,4 @@
 ## PR Agent - Code Review Engine
-<br><br>
-<a href="https://github.com/rajshree1854/pr-agent/commits/main">
-<img alt="GitHub" src="https://img.shields.io/github/last-commit/rajshree1854/pr-agent/main?style=for-the-badge" height="20">
-</a>
-</div>
-
----
-
  This repository contains the open-source PR Agent Project. 
  It is not the Qodo offering for open-source projects.
  
